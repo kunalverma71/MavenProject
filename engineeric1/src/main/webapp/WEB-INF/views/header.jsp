@@ -65,10 +65,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="header-grid-right animated wow slideInRight" data-wow-delay=".5s">
 					<ul class="social-icons">
-						<li><a href="www.facebook.com" class="facebook"></a></li>
-						<li><a href="www.twitter.com" class="twitter"></a></li>
-						<li><a href="www.facebook.com" class="g"></a></li>
-						<li><a href="www.instagram.com" class="instagram"></a></li>
+						<li><a href="https://www.facebook.com/" class="facebook"></a></li>
+						<li><a href="https://twitter.com/" class="twitter"></a></li>
+						<li><a href="https://plus.google.com/" class="g"></a></li>
+						<li><a href="https://www.instagram.com/" class="instagram"></a></li>
 						
 					</ul>
 				</div>
